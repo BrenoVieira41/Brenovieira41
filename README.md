@@ -1,6 +1,6 @@
 # Ei você por aqui ? :wink:
 
-## Já que veio seja bem-vindo(a)!
+## Já que está aqui, seja bem-vindo(a)!
 
 
 Então... Olá, me chamo Breno Henrique e sou um desenvolvedor web e mobile, e resido em Uberlândia(MG)
