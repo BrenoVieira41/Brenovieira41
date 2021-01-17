@@ -3,7 +3,7 @@
 ## Já que veio seja bem-vindo(a)!
 
 
-Então... Ola, me chamo Breno Henrique e sou um desenvolvedor web e mobile, e resido em Uberlândia(MG)
+Então... Olá, me chamo Breno Henrique e sou um desenvolvedor web e mobile, e resido em Uberlândia(MG)
 
 
 ### Ideia da vez:
