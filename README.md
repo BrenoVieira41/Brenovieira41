@@ -29,6 +29,18 @@ Então... Olá, me chamo Breno Henrique e sou um desenvolvedor bakc-end, resido 
    <code><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="Postgres" width="40" height="40"/></code>&nbsp
    </p> 
    
+**Outros:**
+<p align="left">
+   <code><img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql" width="40" height="40"/></code>&nbsp;
+   <code><img src="https://img.icons8.com/ios-filled/48/000000/css3.png" alt="css" width="40" height="40"/></code>&nbsp;
+   <code><img src="https://img.icons8.com/ios-filled/48/000000/html-5.png" alt="html" width="40" height="40"/></code>&nbsp;
+   <code><img src="https://img.icons8.com/fluency/48/000000/docker.png" alt="docker" width="40" height="40"/></code>&nbsp;
+   <code><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="40" height="40"/></code>&nbsp;
+   <code><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png" alt="jest" width="40" height="40"/></code>&nbsp;
+   <code><img src="https://img.icons8.com/ios-glyphs/30/FD7E14/rabbit.png" alt="rabbit" width="40" height="40"/></code>&nbsp;
+   <code><img src="https://img.icons8.com/ios/50/000000/prism.png" alt="prisma" width="40" height="40"/></code>&nbsp;
+   </p> 
+   
 **Resumo do github:** :sunglasses:
 
 [![brenovieira41-SanGithub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
