@@ -9,7 +9,6 @@ Então... Olá, me chamo Breno Henrique e sou um desenvolvedor bakc-end, resido 
 ### Objetivos:
 - Estar sempre em constante estudo para ser melhor que o dia anterior.
 - Subir cerca de 2 repositórios por mês para sempre estar evoluindo tanto meu conhecimento quanto meu portifólio.
-
  ### 🛠 Tecnologias:
  **Base:** :rocket:
  <p align="left">
@@ -18,15 +17,16 @@ Então... Olá, me chamo Breno Henrique e sou um desenvolvedor bakc-end, resido 
   <code><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript" width="40" height="40"/></code>&nbsp;
   </p>
   
-**Bancos relacionais:
+**Bancos relacionais:**
 <p align="left">
    <code><img src="https://img.icons8.com/color/50/4a90e2/postgreesql.png" alt="Postgres" width="40" height="40"/></code>&nbsp
    <code><img src="https://img.icons8.com/ios-filled/50/4a90e2/mysql-logo.png" alt="MySQL" width="40" height="40"/></code>&nbsp;
   </p> 
   
-**Bancos não relacionais:
+**Bancos não relacionais:**
  <p align="left">
-   <code><img src="https://img.icons8.com/color/50/4a90e2/postgreesql.png" alt="Postgres" width="40" height="40"/></code>&nbsp
+   <code><img src="https://img.icons8.com/color/48/000000/redis.png" alt="Postgres" width="40" height="40"/></code>&nbsp
+   <code><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="Postgres" width="40" height="40"/></code>&nbsp
    </p> 
    
 **Resumo do github:** :sunglasses:
