@@ -45,13 +45,10 @@ Então... Olá, me chamo Breno Henrique e sou um desenvolvedor bakc-end, resido 
 
 [![brenovieira41-SanGithub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-**Minha rede**
+**Linkedin para contato mais profissional**
 <p align="left">
   <a href="https://www.linkedin.com/in/breno-henrique-vieira-leal-89a3891a9/" target="blank"><img      src="https://img.icons8.com/metro/52/000000/linkedin.png" alt="Linkedin" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
-
-Não tem mais nada por enquanto, desde já agradeço sua visita fique a vontade para 
-conferir os demais repositórios garanto que tem coisa bem legal e tem muito mais por vir
 
 ## ALL ICONS BY 
 - [Icons8](https://icons8.com.br/)
