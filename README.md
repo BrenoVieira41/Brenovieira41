@@ -3,7 +3,7 @@
 ## Já que está aqui, seja bem-vindo(a)!
 
 
-Então... Olá, me chamo Breno Henrique e sou um desenvolvedor bakc-end, resido em Uberlândia(MG)
+Então... Olá, me chamo Breno Henrique e sou um desenvolvedor back-end, resido em Uberlândia(MG)
 
 
 ### Objetivos:
